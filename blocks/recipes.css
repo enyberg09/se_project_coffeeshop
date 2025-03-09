@@ -5,6 +5,7 @@
   padding: 100px 80px 215px;
   background-position: center;
   background-size: cover;
+  margin: 0;
 }
 
 .recipes__title {
@@ -38,12 +39,10 @@
   justify-content: space-between;
   font-size: 1rem;
   margin-top: 0.5rem;
-  text-align: center;
 }
 
 .recipes__iframe {
   width: 480px;
-  gap: 40px;
 }
 
 .video-container {
