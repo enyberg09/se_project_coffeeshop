@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I appreciate the clean aesthetic of the page. In the future, I would love to add pictures of some of the products that the cafe offers.
