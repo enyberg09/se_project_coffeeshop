@@ -44,18 +44,17 @@
 }
 
 .form__checkbox {
-  appearance: none;
-  border-radius: 2px;
   width: 20px;
   height: 20px;
-  border: 1px solid #000;
-  background-repeat: no-repeat;
-  background-position: center;
-  cursor: pointer;
+  margin-right: 12px;
 }
 
 .form__checkbox:checked {
-  background-color: #000;
+  background-color: #fff;
+  background-image: url(../images/check.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 80%;
   border-color: #000;
 }
 
