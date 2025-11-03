@@ -11,6 +11,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+# Coffee Shop Project
 
-I appreciate the clean aesthetic of the page. In the future, I would love to add pictures of some of the products that the cafe offers.
+[Live Demo](https://enyberg09.github.io/se_project_coffeeshop/) | 
